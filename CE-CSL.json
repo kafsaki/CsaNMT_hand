@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "test-00001",
+    "recognition": "香烟好。",
+    "groundtruth": "40平方米房自己住合适。",
+    "origin": "40平米的房子比较适合一个人住。",
+    "translation": ""
+  },
+  {
+    "id": "test-00002",
+    "recognition": "一年这里票用可以。",
+    "groundtruth": "一年内这打折票用可以。",
+    "origin": "一年之内这个优惠券都可以用。",
+    "translation": ""
+  },
+  {
+    "id": "test-00003",
+    "recognition": "雨天气最好。",
+    "groundtruth": "雨完了空气更好。",
+    "origin": "下雨后空气会变好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00004",
+    "recognition": "中午不行。",
+    "groundtruth": "不做不行？",
+    "origin": "不可以不做吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00005",
+    "recognition": "今天解决你经常不。",
+    "groundtruth": "让爸爸理解你希望不。",
+    "origin": "不要企图让爸爸理解你。",
+    "translation": ""
+  },
+  {
+    "id": "test-00006",
+    "recognition": "事情不。",
+    "groundtruth": "临时努力不。",
+    "origin": "不要想着临时抱佛脚。",
+    "translation": ""
+  },
+  {
+    "id": "test-00007",
+    "recognition": "我年跑步。",
+    "groundtruth": "中国文化多少年？",
+    "origin": "中国的文化有多少年？",
+    "translation": ""
+  },
+  {
+    "id": "test-00008",
+    "recognition": "人最重要会。",
+    "groundtruth": "人生最重要学习。",
+    "origin": "人生最重要的是学习。",
+    "translation": ""
+  },
+  {
+    "id": "test-00009",
+    "recognition": "别人人可以。",
+    "groundtruth": "什么人喊英雄可以？",
+    "origin": "什么人才能称为英雄？",
+    "translation": ""
+  },
+  {
+    "id": "test-00010",
+    "recognition": "今天你吃多少？",
+    "groundtruth": "今天你吃什么菜？",
+    "origin": "今天你吃了什么蔬菜？",
+    "translation": ""
+  },
+  {
+    "id": "test-00011",
+    "recognition": "今天我钱。",
+    "groundtruth": "今天我吃香蕉。",
+    "origin": "今天我吃了香蕉。",
+    "translation": ""
+  },
+  {
+    "id": "test-00012",
+    "recognition": "今天帮助有。",
+    "groundtruth": "今天早上雪有。",
+    "origin": "今天早上下雪了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00013",
+    "recognition": "今天晚上喝同学不。",
+    "groundtruth": "今天晚上喝酒可以明天读书不。",
+    "origin": "今天晚上我可以喝酒，明天不用读书。",
+    "translation": ""
+  },
+  {
+    "id": "test-00014",
+    "recognition": "今天这里商品有。",
+    "groundtruth": "今天这商品打折有。",
+    "origin": "今天这个商品有特价。",
+    "translation": ""
+  },
+  {
+    "id": "test-00015",
+    "recognition": "今天严重。",
+    "groundtruth": "今天年水果贵。",
+    "origin": "今年的水果很贵。",
+    "translation": ""
+  },
+  {
+    "id": "test-00016",
+    "recognition": "今天多不。",
+    "groundtruth": "今天海边去合适不。",
+    "origin": "今晚不适合去海边。",
+    "translation": ""
+  },
+  {
+    "id": "test-00017",
+    "recognition": "他时间开始做像。",
+    "groundtruth": "他小孩时间开始做律师希望。",
+    "origin": "他从小就想当律师。",
+    "translation": ""
+  },
+  {
+    "id": "test-00018",
+    "recognition": "他们慢。",
+    "groundtruth": "他们快递速度慢。",
+    "origin": "他们的快递速度很慢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00019",
+    "recognition": "他们这。",
+    "groundtruth": "他们防守厉害。",
+    "origin": "他们的防守太厉害了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00020",
+    "recognition": "他说话完。",
+    "groundtruth": "他停止才说完。",
+    "origin": "他停顿了一会才把花话讲完。",
+    "translation": ""
+  },
+  {
+    "id": "test-00021",
+    "recognition": "他我喜欢。",
+    "groundtruth": "他出版书我喜欢。",
+    "origin": "他出版的书我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00022",
+    "recognition": "他好。",
+    "groundtruth": "他英语喜欢。",
+    "origin": "他喜欢学英语。",
+    "translation": ""
+  },
+  {
+    "id": "test-00023",
+    "recognition": "他不喜欢。",
+    "groundtruth": "他承诺违反喜欢我不喜欢他。",
+    "origin": "他喜欢违背诺言我很不喜欢他。",
+    "translation": ""
+  },
+  {
+    "id": "test-00024",
+    "recognition": "他开车去。",
+    "groundtruth": "他弟弟开车去。",
+    "origin": "他的弟弟把车开走了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00025",
+    "recognition": "他不愿意。",
+    "groundtruth": "他技术坏我不喜欢。",
+    "origin": "他的手艺很差，我很不喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00026",
+    "recognition": "他介绍。",
+    "groundtruth": "他自己工作足球。",
+    "origin": "他的本行是踢足球。",
+    "translation": ""
+  },
+  {
+    "id": "test-00027",
+    "recognition": "他不行。",
+    "groundtruth": "他状态坏。",
+    "origin": "他的状态不是很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00028",
+    "recognition": "他说去。",
+    "groundtruth": "他累说不行。",
+    "origin": "他累的说不出话来了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00029",
+    "recognition": "上海多少？",
+    "groundtruth": "打折票价值多少？",
+    "origin": "优惠券能值多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00030",
+    "recognition": "质量多。",
+    "groundtruth": "质量高海港口海新鲜多。",
+    "origin": "优质的海港有许多海鲜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00031",
+    "recognition": "书锻炼什么？",
+    "groundtruth": "锻炼运动有什么？",
+    "origin": "伸展运动有哪些？",
+    "translation": ""
+  },
+  {
+    "id": "test-00032",
+    "recognition": "你买时间谁。",
+    "groundtruth": "你上次买什么时间？",
+    "origin": "你上次购物是什么时候？",
+    "translation": ""
+  },
+  {
+    "id": "test-00033",
+    "recognition": "你工作可以。",
+    "groundtruth": "你下周一上班可以？",
+    "origin": "你下周一可以来上班吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00034",
+    "recognition": "你时间有锻炼什么。",
+    "groundtruth": "你时间有不锻炼为什么？",
+    "origin": "你为什么有时间不去锻炼？",
+    "translation": ""
+  },
+  {
+    "id": "test-00035",
+    "recognition": "你时间很。",
+    "groundtruth": "你耽误时间很。",
+    "origin": "你也太耽误时间了吧。",
+    "translation": ""
+  },
+  {
+    "id": "test-00036",
+    "recognition": "他时间钱。",
+    "groundtruth": "你什么时间出差？那时间我去接受你。",
+    "origin": "你什么时候出差？到时我接你。",
+    "translation": ""
+  },
+  {
+    "id": "test-00037",
+    "recognition": "他时间去不行。",
+    "groundtruth": "你什么时间回？我去接受你。",
+    "origin": "你什么时候回来？我去接你。",
+    "translation": ""
+  },
+  {
+    "id": "test-00038",
+    "recognition": "你时间可以。",
+    "groundtruth": "你什么时间成长可以？",
+    "origin": "你什么时候才能长大？",
+    "translation": ""
+  },
+  {
+    "id": "test-00039",
+    "recognition": "你时间高。",
+    "groundtruth": "你什么时间搬家这？",
+    "origin": "你什么时候搬进这家公寓？",
+    "translation": ""
+  },
+  {
+    "id": "test-00040",
+    "recognition": "你现在不行。",
+    "groundtruth": "你今天冰淇淋吃不行。",
+    "origin": "你今天不能吃冰淇淋。",
+    "translation": ""
+  },
+  {
+    "id": "test-00041",
+    "recognition": "你现在早上多少？",
+    "groundtruth": "你今天早上身体温度多少？",
+    "origin": "你今天早上的体温是多少？",
+    "translation": ""
+  },
+  {
+    "id": "test-00042",
+    "recognition": "他们星期六学校有。",
+    "groundtruth": "你们学校房内羽毛球广场有？",
+    "origin": "你们学校有室内羽毛球场吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00043",
+    "recognition": "他们家什么？",
+    "groundtruth": "你们房特别卖有什么？",
+    "origin": "你们店里有什么特卖品吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00044",
+    "recognition": "他们计划在谁？",
+    "groundtruth": "你们保护皮肤在哪？",
+    "origin": "你们护肤品在哪里？",
+    "translation": ""
+  },
+  {
+    "id": "test-00045",
+    "recognition": "他们有。",
+    "groundtruth": "你们学习汉字有？",
+    "origin": "你们有学习汉字吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00046",
+    "recognition": "他时间为什么？",
+    "groundtruth": "你们谁时间着急？",
+    "origin": "你们有谁赶时间吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00047",
+    "recognition": "他们房。",
+    "groundtruth": "你们酒店看高级别。",
+    "origin": "你们酒店看起来好高级。",
+    "translation": ""
+  },
+  {
+    "id": "test-00048",
+    "recognition": "你做完成可以。",
+    "groundtruth": "你六点做完可以？",
+    "origin": "你六点搞完没问题吧？",
+    "translation": ""
+  },
+  {
+    "id": "test-00049",
+    "recognition": "你准备没有。",
+    "groundtruth": "你准备去哪约会？",
+    "origin": "你准备去哪里约会？",
+    "translation": ""
+  },
+  {
+    "id": "test-00050",
+    "recognition": "你时间多少？",
+    "groundtruth": "你火车时间多少？",
+    "origin": "你几点的火车？",
+    "translation": ""
+  },
+  {
+    "id": "test-00051",
+    "recognition": "他时间多少？",
+    "groundtruth": "你飞机时间多少？",
+    "origin": "你几点的飞机？",
+    "translation": ""
+  },
+  {
+    "id": "test-00052",
+    "recognition": "你去多少？",
+    "groundtruth": "你去玩消费多少？",
+    "origin": "你出去玩花了多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00053",
+    "recognition": "他时间不行。",
+    "groundtruth": "你到时间告诉我去接收你。",
+    "origin": "你到时给我说声，我去接你。",
+    "translation": ""
+  },
+  {
+    "id": "test-00054",
+    "recognition": "你打折可以。",
+    "groundtruth": "你用这收据打折可以。",
+    "origin": "你可以凭借这个收据享受打折优惠。",
+    "translation": ""
+  },
+  {
+    "id": "test-00055",
+    "recognition": "你生活可以。",
+    "groundtruth": "你买经验分享可以？",
+    "origin": "你可以分享一下你的购物经验吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00056",
+    "recognition": "你去水果可以？",
+    "groundtruth": "你去买水果可以？",
+    "origin": "你可以去买点水果吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00057",
+    "recognition": "你帮助找可以？",
+    "groundtruth": "你帮助找橡皮可以？",
+    "origin": "你可以帮我找一下我的橡皮吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00058",
+    "recognition": "你去东西贵。",
+    "groundtruth": "你拿便宜票去超市买东西便宜。",
+    "origin": "你可以拿着优惠券去超市购物，便宜一点。",
+    "translation": ""
+  },
+  {
+    "id": "test-00059",
+    "recognition": "你家我可以？",
+    "groundtruth": "你教育我驾驶可以？",
+    "origin": "你可以教我怎么开车吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00060",
+    "recognition": "这一直你喜欢？",
+    "groundtruth": "啤酒你喜欢哪些？",
+    "origin": "你喜欢喝哪款啤酒？",
+    "translation": ""
+  },
+  {
+    "id": "test-00061",
+    "recognition": "这你喜欢？",
+    "groundtruth": "这里背心你喜欢？",
+    "origin": "你喜欢这件背心吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00062",
+    "recognition": "啤酒你喜欢哪些？",
+    "groundtruth": "你坐时间多少地铁？",
+    "origin": "你坐的是几点的地铁？",
+    "translation": ""
+  },
+  {
+    "id": "test-00063",
+    "recognition": "你让我失望。",
+    "groundtruth": "你让我失望。",
+    "origin": "你太让我失望了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00064",
+    "recognition": "你计划你同意。",
+    "groundtruth": "你去海边你妈妈同意？",
+    "origin": "你妈妈同意你去海边吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00065",
+    "recognition": "你对待有？",
+    "groundtruth": "你对待价值要求有？",
+    "origin": "你对价值有要求吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00066",
+    "recognition": "你对待我样子要有？",
+    "groundtruth": "你对待身体样子要求有？",
+    "origin": "你对身材有什么需求？",
+    "translation": ""
+  },
+  {
+    "id": "test-00067",
+    "recognition": "你多。",
+    "groundtruth": "你铅笔为什么多？",
+    "origin": "你怎么有这么多铅笔？",
+    "translation": ""
+  },
+  {
+    "id": "test-00068",
+    "recognition": "你这少了你没有。",
+    "groundtruth": "你选择这里裤子大小适合你没有。",
+    "origin": "你挑的这件裤子没有你的尺码了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00069",
+    "recognition": "你烹饪多少什么？",
+    "groundtruth": "你擅长烹饪菜是什么？",
+    "origin": "你擅长做什么菜呢？",
+    "translation": ""
+  },
+  {
+    "id": "test-00070",
+    "recognition": "你东西心是？",
+    "groundtruth": "你爱心有是。",
+    "origin": "你是个有爱心的人。",
+    "translation": ""
+  },
+  {
+    "id": "test-00071",
+    "recognition": "你电影棕色。",
+    "groundtruth": "你是他电影迷？",
+    "origin": "你是他的影迷吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00072",
+    "recognition": "我认为新娘每内容你最美丽。",
+    "groundtruth": "我见面经过伴娘里你最美丽。",
+    "origin": "你是我见过最美的伴娘。",
+    "translation": ""
+  },
+  {
+    "id": "test-00073",
+    "recognition": "你完成。",
+    "groundtruth": "你最近忙。",
+    "origin": "你最近好忙呀。",
+    "translation": ""
+  },
+  {
+    "id": "test-00074",
+    "recognition": "压好有？",
+    "groundtruth": "压力缓解好方法有？",
+    "origin": "你有什么好的解压方法吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00075",
+    "recognition": "关系有？",
+    "groundtruth": "推荐锻炼有？",
+    "origin": "你有什么推荐的运动吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00076",
+    "recognition": "你最好有什么？",
+    "groundtruth": "你爱好有什么？",
+    "origin": "你有什么爱好呢？",
+    "translation": ""
+  },
+  {
+    "id": "test-00077",
+    "recognition": "东西你有？",
+    "groundtruth": "材料你带领有？",
+    "origin": "你有带材料过来吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00078",
+    "recognition": "我房看你位置有？",
+    "groundtruth": "我们餐厅VIP卡你有？",
+    "origin": "你有我们餐厅的VIP吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00079",
+    "recognition": "票你有？",
+    "groundtruth": "票你拿有？",
+    "origin": "你有拿小票吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00080",
+    "recognition": "热说我要？",
+    "groundtruth": "汗语言菜单你有？我要。",
+    "origin": "你有汉语菜单吗？我很需要。",
+    "translation": ""
+  },
+  {
+    "id": "test-00081",
+    "recognition": "我你看有？",
+    "groundtruth": "我登记手续你看到有？",
+    "origin": "你有看到我的登记手续吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00082",
+    "recognition": "你在哪里买？",
+    "groundtruth": "你妈妈同意完了？",
+    "origin": "你有经过你妈妈的同意吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00083",
+    "recognition": "你现在冷。",
+    "groundtruth": "你现在冷？",
+    "origin": "你现在冷吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00084",
+    "recognition": "你对待力我重。",
+    "groundtruth": "你申请手续我快办。",
+    "origin": "你的申请手续，我马上去办理。",
+    "translation": ""
+  },
+  {
+    "id": "test-00085",
+    "recognition": "你在哪里买？",
+    "groundtruth": "你笔在哪里买？",
+    "origin": "你的笔在哪里买的？",
+    "translation": ""
+  },
+  {
+    "id": "test-00086",
+    "recognition": "你衣服菜可以？",
+    "groundtruth": "你衣服多少大告诉可以？",
+    "origin": "你的衣服尺码能告诉我吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00087",
+    "recognition": "你按照文件我帮助完了？",
+    "groundtruth": "你证明文件我帮助准备完了。",
+    "origin": "你的证明文件我已经帮你准备好了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00088",
+    "recognition": "你身体不收拾。",
+    "groundtruth": "你身体不健康。",
+    "origin": "你的身体很不健康。",
+    "translation": ""
+  },
+  {
+    "id": "test-00089",
+    "recognition": "你身体继续。",
+    "groundtruth": "你身体健康请保持。",
+    "origin": "你的身体很健康，请继续保持。",
+    "translation": ""
+  },
+  {
+    "id": "test-00090",
+    "recognition": "你唱歌看还是？",
+    "groundtruth": "你乐观女孩子是。",
+    "origin": "你真是个乐观的女孩。",
+    "translation": ""
+  },
+  {
+    "id": "test-00091",
+    "recognition": "看房知道。",
+    "groundtruth": "修理房哪里有你知道？",
+    "origin": "你知道哪里有修理厂吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00092",
+    "recognition": "你不可以？",
+    "groundtruth": "你不抽烟可以？",
+    "origin": "你能不抽烟吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00093",
+    "recognition": "你首先好可以。",
+    "groundtruth": "你首先消费可以？",
+    "origin": "你能先付钱吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00094",
+    "recognition": "你和我和生活可以？",
+    "groundtruth": "你和我一起生活可以？",
+    "origin": "你能和我共度时光吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00095",
+    "recognition": "你带去我可以？",
+    "groundtruth": "你带领去买衣服可以？",
+    "origin": "你能带去去买衣服吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00096",
+    "recognition": "你帮助种类不一样可以？",
+    "groundtruth": "你帮助写字1证明文件可以？",
+    "origin": "你能帮我出具一份证明文件吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00097",
+    "recognition": "你帮助书可以？",
+    "groundtruth": "你帮助书还可以？",
+    "origin": "你能帮我把书还回去吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00098",
+    "recognition": "你？",
+    "groundtruth": "你帮助菜洗可以？",
+    "origin": "你能帮我把蔬菜洗了吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00099",
+    "recognition": "你帮助这现在帮助可以？",
+    "groundtruth": "你帮助这里裙子包装可以？",
+    "origin": "你能帮我把这个裙子包起来吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00100",
+    "recognition": "你帮助书可以。",
+    "groundtruth": "你帮助书柜书拿可以？",
+    "origin": "你能帮我拿下书架上的书吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00101",
+    "recognition": "这你家可以？",
+    "groundtruth": "你帮助订1房间可以？",
+    "origin": "你能帮我订一间房间吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00102",
+    "recognition": "你找帮助可以？",
+    "groundtruth": "你找1医生帮助看可以？",
+    "origin": "你能找个医生帮我看看吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00103",
+    "recognition": "你帮助晚上帮助可以？",
+    "groundtruth": "你帮助推荐1晚会衣服可以？",
+    "origin": "你能给我推荐一套晚会礼服吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00104",
+    "recognition": "你给钱可以？",
+    "groundtruth": "你给1土豆汤可以？",
+    "origin": "你能给我来一份土豆汤吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00105",
+    "recognition": "这一些东西给可以？",
+    "groundtruth": "这里一些礼物给可以？",
+    "origin": "你能送我这些礼品吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00106",
+    "recognition": "演讲必须写字完了。",
+    "groundtruth": "演讲文章你必须今天下午提前写字完了。",
+    "origin": "你要在今天下午之前完成讲稿得撰写。",
+    "translation": ""
+  },
+  {
+    "id": "test-00107",
+    "recognition": "你要用多时间完成。",
+    "groundtruth": "你要用多时间完成。",
+    "origin": "你要花费很多时间去完成。",
+    "translation": ""
+  },
+  {
+    "id": "test-00108",
+    "recognition": "你帮助可以？",
+    "groundtruth": "你帮助买被子可以？",
+    "origin": "你帮我买张被子可以吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00109",
+    "recognition": "你说家可以？",
+    "groundtruth": "你说话声音大可以？",
+    "origin": "你说话可以大点声吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00110",
+    "recognition": "你和我说专业？",
+    "groundtruth": "你和我说话时候温柔。",
+    "origin": "你跟我说话的时候好温和。",
+    "translation": ""
+  },
+  {
+    "id": "test-00111",
+    "recognition": "你身体虚伪？",
+    "groundtruth": "你锻炼时候热身体有？",
+    "origin": "你运动的时候有热身吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00112",
+    "recognition": "你这里东西买钱多少？",
+    "groundtruth": "你这里东西买多少钱？",
+    "origin": "你这东西买来多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00113",
+    "recognition": "你时间多少？",
+    "groundtruth": "你石膏时间多少？",
+    "origin": "你这个石膏打了多久了？",
+    "translation": ""
+  },
+  {
+    "id": "test-00114",
+    "recognition": "你说我要。",
+    "groundtruth": "你如果这样说我流口水要。",
+    "origin": "你这么说我要流口水了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00115",
+    "recognition": "你认为这菜重要有？",
+    "groundtruth": "你觉得菜价格贵有？",
+    "origin": "你这得蔬菜价格贵吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00116",
+    "recognition": "你这东西。",
+    "groundtruth": "你这次东西需要多少？",
+    "origin": "你这次需要多少的货物呢？",
+    "translation": ""
+  },
+  {
+    "id": "test-00117",
+    "recognition": "你很。",
+    "groundtruth": "你送裙子我喜欢很。",
+    "origin": "你送我的裙子我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00118",
+    "recognition": "你要降。",
+    "groundtruth": "你减肥要。",
+    "origin": "你需要减肥了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00119",
+    "recognition": "你卖现在。",
+    "groundtruth": "你减肥通过锻炼要。",
+    "origin": "你需要通过锻炼来减肥。",
+    "translation": ""
+  },
+  {
+    "id": "test-00120",
+    "recognition": "做自己人。",
+    "groundtruth": "做人自己骄傲。",
+    "origin": "做一个让自己骄傲和自豪的人。",
+    "translation": ""
+  },
+  {
+    "id": "test-00121",
+    "recognition": "健康知道。",
+    "groundtruth": "饮食健康生活美好。",
+    "origin": "健康饮食，美好生活。",
+    "translation": ""
+  },
+  {
+    "id": "test-00122",
+    "recognition": "对不起。",
+    "groundtruth": "减肥简单方法没有。",
+    "origin": "减肥是没有捷径的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00123",
+    "recognition": "到晚上我喝注意。",
+    "groundtruth": "到晚上我喝牛奶不。",
+    "origin": "到了晚上我就基本不喝牛奶了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00124",
+    "recognition": "到时间多少？",
+    "groundtruth": "到山顶时间要多少？",
+    "origin": "到达山顶需要多久啊？",
+    "translation": ""
+  },
+  {
+    "id": "test-00125",
+    "recognition": "去换身体好。",
+    "groundtruth": "运动对身体好。",
+    "origin": "去运动对身体有好处。",
+    "translation": ""
+  },
+  {
+    "id": "test-00126",
+    "recognition": "你帮助可以？",
+    "groundtruth": "帮助车加油满可以？",
+    "origin": "可以帮我的车加满油吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00127",
+    "recognition": "帮助可以？",
+    "groundtruth": "帮助签名可以？",
+    "origin": "可以帮我签个名吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00128",
+    "recognition": "你给票可以？",
+    "groundtruth": "给我开收据可以？",
+    "origin": "可以给我开个收据吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00129",
+    "recognition": "听工作很。",
+    "groundtruth": "晚饭吃完写字作业开始。",
+    "origin": "吃完晚饭后就开始写作业。",
+    "translation": ""
+  },
+  {
+    "id": "test-00130",
+    "recognition": "吃菜身体好。",
+    "groundtruth": "吃菜对身体好。",
+    "origin": "吃蔬菜对身体有好处。",
+    "translation": ""
+  },
+  {
+    "id": "test-00131",
+    "recognition": "鼻涕不好。",
+    "groundtruth": "吸烟习惯不好。",
+    "origin": "吸烟的习惯很不好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00132",
+    "recognition": "等我们去买结束。",
+    "groundtruth": "周六我们去买东西。",
+    "origin": "周六我们去购物。",
+    "translation": ""
+  },
+  {
+    "id": "test-00133",
+    "recognition": "我买爱情朋友。",
+    "groundtruth": "我买裙子可爱一个给我朋友。",
+    "origin": "我买了一个可爱的裙子送给我朋友。",
+    "translation": ""
+  },
+  {
+    "id": "test-00134",
+    "recognition": "去时间帮助谢谢。",
+    "groundtruth": "帮助带水果一份回来时候。",
+    "origin": "回来的时候帮我带份水果。",
+    "translation": ""
+  },
+  {
+    "id": "test-00135",
+    "recognition": "土豆很。",
+    "groundtruth": "土豆炸可以吃好很。",
+    "origin": "土豆可以用来炸味道很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00136",
+    "recognition": "在这里房我遗产。",
+    "groundtruth": "消费多在这家。",
+    "origin": "在这家店消费了很多。",
+    "translation": ""
+  },
+  {
+    "id": "test-00137",
+    "recognition": "买这里东西要多少。",
+    "groundtruth": "买这个东西钱要多少？",
+    "origin": "多少钱才能买到这个东西？",
+    "translation": ""
+  },
+  {
+    "id": "test-00138",
+    "recognition": "你穿。",
+    "groundtruth": "天气冷衣服穿多。",
+    "origin": "天气变冷了，要多穿点衣服。",
+    "translation": ""
+  },
+  {
+    "id": "test-00139",
+    "recognition": "奶奶凶。",
+    "groundtruth": "奶奶老比之前。",
+    "origin": "奶奶比以前更老了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00140",
+    "recognition": "你我最爱。",
+    "groundtruth": "奶茶我最爱是。",
+    "origin": "奶茶简直就是我的最爱。",
+    "translation": ""
+  },
+  {
+    "id": "test-00141",
+    "recognition": "钱你好。",
+    "groundtruth": "时间长见没有你漂亮又。",
+    "origin": "好久不见你又漂亮了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00142",
+    "recognition": "你现在早上学没有？",
+    "groundtruth": "妈妈今天早上送我上学没有。",
+    "origin": "妈妈今天早上没送我去上学。",
+    "translation": ""
+  },
+  {
+    "id": "test-00143",
+    "recognition": "你现在有。",
+    "groundtruth": "妈妈今天来学校送伞给我。",
+    "origin": "妈妈今天来学校给我送伞了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00144",
+    "recognition": "现在全部多。",
+    "groundtruth": "客厅灰尘满。",
+    "origin": "客厅堆满了灰尘。",
+    "translation": ""
+  },
+  {
+    "id": "test-00145",
+    "recognition": "再现在我感觉做。",
+    "groundtruth": "对减肥我感觉做难。",
+    "origin": "对于减肥，我觉得很难做到。",
+    "translation": ""
+  },
+  {
+    "id": "test-00146",
+    "recognition": "这次大家平摊。",
+    "groundtruth": "对衣服宽松紧衣服我喜欢更。",
+    "origin": "对于宽松的衣服，我更喜欢紧身的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00147",
+    "recognition": "换我喜欢多少。",
+    "groundtruth": "对牛仔裤穿黑色我喜欢。",
+    "origin": "对于牛仔裤，我喜欢穿黑色的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00148",
+    "recognition": "你对人。",
+    "groundtruth": "对他人真要。",
+    "origin": "对待他人以诚相待。",
+    "translation": ""
+  },
+  {
+    "id": "test-00149",
+    "recognition": "再安排可以。",
+    "groundtruth": "巴黎香水贵不好全部不好。",
+    "origin": "巴黎得香水又贵又不好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00150",
+    "recognition": "吃时间网美元。",
+    "groundtruth": "年轻时候网恋爱对象有。",
+    "origin": "年轻时有个网恋对象。",
+    "translation": ""
+  },
+  {
+    "id": "test-00151",
+    "recognition": "汽车窗不好？",
+    "groundtruth": "开车快不行。",
+    "origin": "开车不要开太快。",
+    "translation": ""
+  },
+  {
+    "id": "test-00152",
+    "recognition": "快乐看。",
+    "groundtruth": "相遇你我开心很。",
+    "origin": "很高兴我能遇见你。",
+    "translation": ""
+  },
+  {
+    "id": "test-00153",
+    "recognition": "你快乐很。",
+    "groundtruth": "为你服务我开心很。",
+    "origin": "很高兴能为你服务。",
+    "translation": ""
+  },
+  {
+    "id": "test-00154",
+    "recognition": "世界一身体怎么做？",
+    "groundtruth": "保持身好怎么？",
+    "origin": "怎么才能保持一个好的身材呢？",
+    "translation": ""
+  },
+  {
+    "id": "test-00155",
+    "recognition": "脸我喜欢。",
+    "groundtruth": "意大利菜我喜欢。",
+    "origin": "意大利得蔬菜我也是很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00156",
+    "recognition": "我喜欢参加人最后。",
+    "groundtruth": "我不喜欢参加多人活动。",
+    "origin": "我不喜欢参加人多的活动。",
+    "translation": ""
+  },
+  {
+    "id": "test-00157",
+    "recognition": "我说公司我喜欢茶次。",
+    "groundtruth": "我不喜欢喝咖啡我喜欢喝茶。",
+    "origin": "我不喜欢喝咖啡，我喜欢喝茶。",
+    "translation": ""
+  },
+  {
+    "id": "test-00158",
+    "recognition": "我说给睡觉。",
+    "groundtruth": "我不喜欢我弟弟。",
+    "origin": "我不喜欢我弟弟。",
+    "translation": ""
+  },
+  {
+    "id": "test-00159",
+    "recognition": "我强。",
+    "groundtruth": "我不喜欢这品牌护肤品。",
+    "origin": "我不喜欢这个品牌的护肤品。",
+    "translation": ""
+  },
+  {
+    "id": "test-00160",
+    "recognition": "我喜欢汽车。",
+    "groundtruth": "我不喜欢这沙发套。",
+    "origin": "我不喜欢这款沙发套。",
+    "translation": ""
+  },
+  {
+    "id": "test-00161",
+    "recognition": "我朋友机会没有。",
+    "groundtruth": "我不想错过这机会。",
+    "origin": "我不想错过这个机会。",
+    "translation": ""
+  },
+  {
+    "id": "test-00162",
+    "recognition": "我自己基础。",
+    "groundtruth": "我自己不喜欢穿牛仔裤。",
+    "origin": "我个人很不喜欢穿牛仔裤。",
+    "translation": ""
+  },
+  {
+    "id": "test-00163",
+    "recognition": "我自己穿都票。",
+    "groundtruth": "我自己喜欢穿纯棉背心。",
+    "origin": "我个人比较喜欢穿纯棉得背心。",
+    "translation": ""
+  },
+  {
+    "id": "test-00164",
+    "recognition": "我一餐厅。",
+    "groundtruth": "我今天不想去学校。",
+    "origin": "我今天不想去学校。",
+    "translation": ""
+  },
+  {
+    "id": "test-00165",
+    "recognition": "我现在很。",
+    "groundtruth": "我今天工作一天累很。",
+    "origin": "我今天工作了一天很累了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00166",
+    "recognition": "我今天家游戏。",
+    "groundtruth": "我今天想在家游戏。",
+    "origin": "我今天想在家里玩游戏。",
+    "translation": ""
+  },
+  {
+    "id": "test-00167",
+    "recognition": "我今天晚上日语。",
+    "groundtruth": "我今天晚上去踢球。",
+    "origin": "我今天晚上要去踢球。",
+    "translation": ""
+  },
+  {
+    "id": "test-00168",
+    "recognition": "我票。",
+    "groundtruth": "我从来没有买奢侈品。",
+    "origin": "我从来没有买过奢侈品。",
+    "translation": ""
+  },
+  {
+    "id": "test-00169",
+    "recognition": "我们一起帮助。",
+    "groundtruth": "我们一起努力读书。",
+    "origin": "我们一起努力读书吧。",
+    "translation": ""
+  },
+  {
+    "id": "test-00170",
+    "recognition": "我们没有。",
+    "groundtruth": "我们2个差别没有。",
+    "origin": "我们2个没有什么差别。",
+    "translation": ""
+  },
+  {
+    "id": "test-00171",
+    "recognition": "我们时候没有。",
+    "groundtruth": "我们什么时候去聚会？",
+    "origin": "我们什么时候去聚会？",
+    "translation": ""
+  },
+  {
+    "id": "test-00172",
+    "recognition": "我们前多。",
+    "groundtruth": "我们以后会练习时间更多。",
+    "origin": "我们以后要花更多时间练习。",
+    "translation": ""
+  },
+  {
+    "id": "test-00173",
+    "recognition": "我们公司时间。",
+    "groundtruth": "我们公司没有中午休息时间。",
+    "origin": "我们公司没有午休时间。",
+    "translation": ""
+  },
+  {
+    "id": "test-00174",
+    "recognition": "我们去看大多。",
+    "groundtruth": "我们去看大海。",
+    "origin": "我们去看大海吧。",
+    "translation": ""
+  },
+  {
+    "id": "test-00175",
+    "recognition": "我们可以取得成功。",
+    "groundtruth": "我们可以取得胜利。",
+    "origin": "我们可以取得胜利的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00176",
+    "recognition": "我们一起可以。",
+    "groundtruth": "我们周末可以一起看电影？",
+    "origin": "我们周末能一起看电影吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00177",
+    "recognition": "我们公司开放。",
+    "groundtruth": "我们在比赛中应该保持冷静。",
+    "origin": "我们在比赛中应保持冷静。",
+    "translation": ""
+  },
+  {
+    "id": "test-00178",
+    "recognition": "我们家多。",
+    "groundtruth": "我们家卧室很1多。",
+    "origin": "我们家卧室很多。",
+    "translation": ""
+  },
+  {
+    "id": "test-00179",
+    "recognition": "我们房子多。",
+    "groundtruth": "我们家房子多。",
+    "origin": "我们家有好多房子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00180",
+    "recognition": "我们买禁止。",
+    "groundtruth": "我们应该改商品买。",
+    "origin": "我们应该改一下商品的买点。",
+    "translation": ""
+  },
+  {
+    "id": "test-00181",
+    "recognition": "我们一会儿。",
+    "groundtruth": "我们要再等一会。",
+    "origin": "我们得再等一会。",
+    "translation": ""
+  },
+  {
+    "id": "test-00182",
+    "recognition": "我们去。",
+    "groundtruth": "我们明天再出发。",
+    "origin": "我们明天再出发吧。",
+    "translation": ""
+  },
+  {
+    "id": "test-00183",
+    "recognition": "我们公司在可以。",
+    "groundtruth": "我们四人车坐可以？",
+    "origin": "我们有四个人，车可以坐下吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00184",
+    "recognition": "我们要问题。",
+    "groundtruth": "我们要寻找方法解决这问题。",
+    "origin": "我们要寻找方法来解决这个问题。",
+    "translation": ""
+  },
+  {
+    "id": "test-00185",
+    "recognition": "我们急。",
+    "groundtruth": "我们练习配合。",
+    "origin": "我们要练一下配合。",
+    "translation": ""
+  },
+  {
+    "id": "test-00186",
+    "recognition": "我们不行。",
+    "groundtruth": "我们防守差。",
+    "origin": "我们防守太差了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00187",
+    "recognition": "我会时间。",
+    "groundtruth": "我会注意时间。",
+    "origin": "我会注意一下时间的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00188",
+    "recognition": "我书你。",
+    "groundtruth": "我借书给你完了。",
+    "origin": "我借你的书已经还给你了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00189",
+    "recognition": "我早上朋友东西。",
+    "groundtruth": "我儿子很喜欢我朋友买玩具。",
+    "origin": "我儿子很喜欢我朋友买的玩具。",
+    "translation": ""
+  },
+  {
+    "id": "test-00190",
+    "recognition": "我做建立快。",
+    "groundtruth": "我先做手工礼物送他。",
+    "origin": "我先制作手工礼品送给他。",
+    "translation": ""
+  },
+  {
+    "id": "test-00191",
+    "recognition": "我玩中国。",
+    "groundtruth": "我出生在中国。",
+    "origin": "我出生在中国。",
+    "translation": ""
+  },
+  {
+    "id": "test-00192",
+    "recognition": "电视机东西好。",
+    "groundtruth": "生物学我兴趣。",
+    "origin": "我十分感兴趣生物学。",
+    "translation": ""
+  },
+  {
+    "id": "test-00193",
+    "recognition": "我去东西多少？",
+    "groundtruth": "我去检查这东西钱多少？",
+    "origin": "我去查一下这个东西多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00194",
+    "recognition": "我会什么？",
+    "groundtruth": "我会投篮。",
+    "origin": "我只会投篮。",
+    "translation": ""
+  },
+  {
+    "id": "test-00195",
+    "recognition": "我今天哪？",
+    "groundtruth": "我用现金支付。",
+    "origin": "我只能用现金支付。",
+    "translation": ""
+  },
+  {
+    "id": "test-00196",
+    "recognition": "我可以在强。",
+    "groundtruth": "我可以在早上洗澡？",
+    "origin": "我可以在早上洗澡吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00197",
+    "recognition": "我可以搜查。",
+    "groundtruth": "我可以支持你去运动。",
+    "origin": "我可以支持你去运动。",
+    "translation": ""
+  },
+  {
+    "id": "test-00198",
+    "recognition": "我按时睡觉。",
+    "groundtruth": "我可以独立完成这任务。",
+    "origin": "我可以独立完成这项任务。",
+    "translation": ""
+  },
+  {
+    "id": "test-00199",
+    "recognition": "我多。",
+    "groundtruth": "我可以知道他全部？",
+    "origin": "我可以知道他的一切吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00200",
+    "recognition": "我早上好睡觉。",
+    "groundtruth": "我早上饭完了再去睡觉。",
+    "origin": "我吃完早饭再去睡觉。",
+    "translation": ""
+  },
+  {
+    "id": "test-00201",
+    "recognition": "我唱歌来听。",
+    "groundtruth": "我唱歌不好听。",
+    "origin": "我唱歌不好听。",
+    "translation": ""
+  },
+  {
+    "id": "test-00202",
+    "recognition": "我喜欢不行。",
+    "groundtruth": "我喜欢享受大自然。",
+    "origin": "我喜欢享受大自然。",
+    "translation": ""
+  },
+  {
+    "id": "test-00203",
+    "recognition": "我喜欢去电影看电影。",
+    "groundtruth": "我喜欢去电影院看电影。",
+    "origin": "我喜欢去电影院看电影。",
+    "translation": ""
+  },
+  {
+    "id": "test-00204",
+    "recognition": "我用。",
+    "groundtruth": "我土豆饺子喜欢吃。",
+    "origin": "我喜欢吃土豆馅的饺子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00205",
+    "recognition": "我这吃。",
+    "groundtruth": "我新鲜蔬菜喜欢吃。",
+    "origin": "我喜欢吃新鲜的蔬菜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00206",
+    "recognition": "我近喝。",
+    "groundtruth": "我土豆汤喜欢喝。",
+    "origin": "我喜欢和土豆例汤。",
+    "translation": ""
+  },
+  {
+    "id": "test-00207",
+    "recognition": "我喜欢在电视。",
+    "groundtruth": "我喜欢在家看电视。",
+    "origin": "我喜欢在家看电视。",
+    "translation": ""
+  },
+  {
+    "id": "test-00208",
+    "recognition": "我看怎么办。",
+    "groundtruth": "我喜欢早上报纸看。",
+    "origin": "我喜欢在早上看报纸。",
+    "translation": ""
+  },
+  {
+    "id": "test-00209",
+    "recognition": "我晚上时间电影。",
+    "groundtruth": "我喜欢晚上微博看。",
+    "origin": "我喜欢在晚上刷微博。",
+    "translation": ""
+  },
+  {
+    "id": "test-00210",
+    "recognition": "我喝冰完了。",
+    "groundtruth": "我喜欢晚上喝水果水看电视。",
+    "origin": "我喜欢在晚上喝果汁看电视。",
+    "translation": ""
+  },
+  {
+    "id": "test-00211",
+    "recognition": "我喜欢晚上说话说。",
+    "groundtruth": "我喜欢晚上看小说。",
+    "origin": "我喜欢在晚上的时候看小说。",
+    "translation": ""
+  },
+  {
+    "id": "test-00212",
+    "recognition": "我喜欢晚上怎么。",
+    "groundtruth": "我喜欢晚上看报纸。",
+    "origin": "我喜欢在晚上看报纸。",
+    "translation": ""
+  },
+  {
+    "id": "test-00213",
+    "recognition": "我喜欢食物。",
+    "groundtruth": "我喜欢尝试新鲜东西。",
+    "origin": "我喜欢尝试不一样的东西。",
+    "translation": ""
+  },
+  {
+    "id": "test-00214",
+    "recognition": "我喜欢吃。",
+    "groundtruth": "我喜欢裙子蓝色。",
+    "origin": "我喜欢蓝色的裙子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00215",
+    "recognition": "我难受。",
+    "groundtruth": "我这个鞋子喜欢。",
+    "origin": "我喜欢这双鞋子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00216",
+    "recognition": "我城市喜欢？",
+    "groundtruth": "我这个女生头发长直。",
+    "origin": "我喜欢长直发的女生。",
+    "translation": ""
+  },
+  {
+    "id": "test-00217",
+    "recognition": "我国家大。",
+    "groundtruth": "我国大豆交易数量大。",
+    "origin": "我国的大豆消费量很大。",
+    "translation": ""
+  },
+  {
+    "id": "test-00218",
+    "recognition": "我们国家怎么起床。",
+    "groundtruth": "我国生态环境破弱。",
+    "origin": "我国的生态环境十分脆弱。",
+    "translation": ""
+  },
+  {
+    "id": "test-00219",
+    "recognition": "我快。",
+    "groundtruth": "我国高铁速度快。",
+    "origin": "我国高铁的速度很快。",
+    "translation": ""
+  },
+  {
+    "id": "test-00220",
+    "recognition": "我工作骄傲。",
+    "groundtruth": "我去工作公交车。",
+    "origin": "我坐公交车上班。",
+    "translation": ""
+  },
+  {
+    "id": "test-00221",
+    "recognition": "我现在在快到。",
+    "groundtruth": "我妻子提前生产日期快到。",
+    "origin": "我太太的预产期快到了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00222",
+    "recognition": "我妈妈去买。",
+    "groundtruth": "我妈妈不同意我出去玩。",
+    "origin": "我妈妈不同意我出去玩。",
+    "translation": ""
+  },
+  {
+    "id": "test-00223",
+    "recognition": "我妈妈看。",
+    "groundtruth": "我妈妈皮肤护理注意。",
+    "origin": "我妈妈很注重护肤保养。",
+    "translation": ""
+  },
+  {
+    "id": "test-00224",
+    "recognition": "我家要。",
+    "groundtruth": "我家空调刚买。",
+    "origin": "我家刚买了空调。",
+    "translation": ""
+  },
+  {
+    "id": "test-00225",
+    "recognition": "我家房好。",
+    "groundtruth": "我家房子装修好。",
+    "origin": "我家的房子装修的很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00226",
+    "recognition": "我家进口。",
+    "groundtruth": "我家水龙头漏。",
+    "origin": "我家的水龙头漏水了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00227",
+    "recognition": "我第一。",
+    "groundtruth": "我家门口树种。",
+    "origin": "我家门口栽了一棵树。",
+    "translation": ""
+  },
+  {
+    "id": "test-00228",
+    "recognition": "我不敢时多。",
+    "groundtruth": "我小孩漫画故事有很多。",
+    "origin": "我小时候有很多漫画故事。",
+    "translation": ""
+  },
+  {
+    "id": "test-00229",
+    "recognition": "我做完了。",
+    "groundtruth": "我做能力很多完。",
+    "origin": "我已经做出了很多努力了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00230",
+    "recognition": "我完了。",
+    "groundtruth": "我出路没有完。",
+    "origin": "我已经没有出路了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00231",
+    "recognition": "我没有要。",
+    "groundtruth": "我钱没有完。",
+    "origin": "我已经身无分文了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00232",
+    "recognition": "我平时锻炼不喜欢。",
+    "groundtruth": "我平时锻炼不喜欢。",
+    "origin": "我平时不喜欢锻炼。",
+    "translation": ""
+  },
+  {
+    "id": "test-00233",
+    "recognition": "我平时这不。",
+    "groundtruth": "我平时在外面说英语。",
+    "origin": "我平时在外面都是说英语的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00234",
+    "recognition": "我时喜欢朋友。",
+    "groundtruth": "我年轻时喜欢游戏。",
+    "origin": "我年轻时很喜欢打游戏。",
+    "translation": ""
+  },
+  {
+    "id": "test-00235",
+    "recognition": "我慢。",
+    "groundtruth": "我开车慢。",
+    "origin": "我开车慢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00236",
+    "recognition": "我东西不喜欢。",
+    "groundtruth": "我东西贵不喜欢。",
+    "origin": "我很不喜欢价格贵的东西。",
+    "translation": ""
+  },
+  {
+    "id": "test-00237",
+    "recognition": "我样子不喜欢。",
+    "groundtruth": "我新发型不喜欢。",
+    "origin": "我很不喜欢我的新发型。",
+    "translation": ""
+  },
+  {
+    "id": "test-00238",
+    "recognition": "我不喜欢。",
+    "groundtruth": "我泡温泉不喜欢。",
+    "origin": "我很不喜欢泡温泉。",
+    "translation": ""
+  },
+  {
+    "id": "test-00239",
+    "recognition": "我样子看。",
+    "groundtruth": "我图案不喜欢我看不行。",
+    "origin": "我很不喜欢这款图案，我觉得很不好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00240",
+    "recognition": "我去休息。",
+    "groundtruth": "我喜欢去度假。",
+    "origin": "我很喜欢去度假。",
+    "translation": ""
+  },
+  {
+    "id": "test-00241",
+    "recognition": "我吃关系。",
+    "groundtruth": "我喜欢吃西红柿。",
+    "origin": "我很喜欢吃西红柿。",
+    "translation": ""
+  },
+  {
+    "id": "test-00242",
+    "recognition": "我喜欢吃这多少。",
+    "groundtruth": "我喜欢吃这个菜。",
+    "origin": "我很喜欢吃这道菜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00243",
+    "recognition": "我喜欢东西道理。",
+    "groundtruth": "我喜欢吃零食。",
+    "origin": "我很喜欢吃零食。",
+    "translation": ""
+  },
+  {
+    "id": "test-00244",
+    "recognition": "我喜欢中午我。",
+    "groundtruth": "我喜欢中午喝牛奶。",
+    "origin": "我很喜欢在中午喝牛奶。",
+    "translation": ""
+  },
+  {
+    "id": "test-00245",
+    "recognition": "我吃电视。",
+    "groundtruth": "我喜欢早上喝牛奶看电视。",
+    "origin": "我很喜欢在早上喝着牛奶看着电视。",
+    "translation": ""
+  },
+  {
+    "id": "test-00246",
+    "recognition": "我喜欢吃看帮助。",
+    "groundtruth": "我喜欢早上看杂志。",
+    "origin": "我很喜欢在早上看杂志。",
+    "translation": ""
+  },
+  {
+    "id": "test-00247",
+    "recognition": "我晚上说话人。",
+    "groundtruth": "我喜欢晚上看科学回忆小说。",
+    "origin": "我很喜欢在晚上读科幻小说。",
+    "translation": ""
+  },
+  {
+    "id": "test-00248",
+    "recognition": "我票。",
+    "groundtruth": "我喜欢搭积木。",
+    "origin": "我很喜欢搭积木。",
+    "translation": ""
+  },
+  {
+    "id": "test-00249",
+    "recognition": "我工人是。",
+    "groundtruth": "我喜欢饼干西红柿品尝。",
+    "origin": "我很喜欢番茄味的饼干。",
+    "translation": ""
+  },
+  {
+    "id": "test-00250",
+    "recognition": "我。",
+    "groundtruth": "我喜欢花加酒。",
+    "origin": "我很喜欢花生配酒。",
+    "translation": ""
+  },
+  {
+    "id": "test-00251",
+    "recognition": "我这老师。",
+    "groundtruth": "我喜欢这个老师。",
+    "origin": "我很喜欢这个老师。",
+    "translation": ""
+  },
+  {
+    "id": "test-00252",
+    "recognition": "我你一起房子。",
+    "groundtruth": "我喜欢这个风格房子。",
+    "origin": "我很喜欢这个风格的公寓。",
+    "translation": ""
+  },
+  {
+    "id": "test-00253",
+    "recognition": "我任务。",
+    "groundtruth": "我喜欢这个裙子黑色。",
+    "origin": "我很喜欢这个黑色的裙子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00254",
+    "recognition": "我这个吃。",
+    "groundtruth": "我喜欢这个夹克黑色。",
+    "origin": "我很喜欢这件黑色的夹克。",
+    "translation": ""
+  },
+  {
+    "id": "test-00255",
+    "recognition": "我这水果喝酒。",
+    "groundtruth": "我喜欢这个水果水鸡尾酒。",
+    "origin": "我很喜欢这款果汁味鸡尾酒。",
+    "translation": ""
+  },
+  {
+    "id": "test-00256",
+    "recognition": "这里我喜欢。",
+    "groundtruth": "这洗衣机设计我喜欢。",
+    "origin": "我很喜欢这款洗衣机的设计。",
+    "translation": ""
+  },
+  {
+    "id": "test-00257",
+    "recognition": "背心我推喜欢。",
+    "groundtruth": "背心黑色我喜欢纯棉特别喜欢。",
+    "origin": "我很喜欢黑色的背心特别是纯棉的话。",
+    "translation": ""
+  },
+  {
+    "id": "test-00258",
+    "recognition": "他东西快乐。",
+    "groundtruth": "你给礼物我开心。",
+    "origin": "我很开心你能给我这个礼物。",
+    "translation": ""
+  },
+  {
+    "id": "test-00259",
+    "recognition": "蔬菜高兴。",
+    "groundtruth": "早上我开心。",
+    "origin": "我很愉快的度过了早上。",
+    "translation": ""
+  },
+  {
+    "id": "test-00260",
+    "recognition": "计算机我喜欢。",
+    "groundtruth": "烤串肉我喜欢。",
+    "origin": "我很爱吃烤肉。",
+    "translation": ""
+  },
+  {
+    "id": "test-00261",
+    "recognition": "我爱你。",
+    "groundtruth": "我奶奶我爱她。",
+    "origin": "我很爱我的奶奶。",
+    "translation": ""
+  },
+  {
+    "id": "test-00262",
+    "recognition": "我买锻炼东西多少。",
+    "groundtruth": "我买体育东西一些。",
+    "origin": "我想买一些体育用品。",
+    "translation": ""
+  },
+  {
+    "id": "test-00263",
+    "recognition": "我随意。",
+    "groundtruth": "我买裤子长。",
+    "origin": "我想买一条长裤。",
+    "translation": ""
+  },
+  {
+    "id": "test-00264",
+    "recognition": "香烟工作有。",
+    "groundtruth": "我工作希望专业联系有。",
+    "origin": "我想从事自己的专业相关的事情。",
+    "translation": ""
+  },
+  {
+    "id": "test-00265",
+    "recognition": "我作业战斗。",
+    "groundtruth": "我作业挑选喜欢做。",
+    "origin": "我想做自己喜欢的作业。",
+    "translation": ""
+  },
+  {
+    "id": "test-00266",
+    "recognition": "我想去完。",
+    "groundtruth": "我想回我家乡。",
+    "origin": "我想回我的故乡。",
+    "translation": ""
+  },
+  {
+    "id": "test-00267",
+    "recognition": "像是。",
+    "groundtruth": "希望我裁缝工作以后是。",
+    "origin": "我想当一个裁缝师。",
+    "translation": ""
+  },
+  {
+    "id": "test-00268",
+    "recognition": "希望是。",
+    "groundtruth": "希望我木工作以后是。",
+    "origin": "我想成为一个木匠。",
+    "translation": ""
+  },
+  {
+    "id": "test-00269",
+    "recognition": "房子我要。",
+    "groundtruth": "房间安静我要。",
+    "origin": "我想要一个安静的房间。",
+    "translation": ""
+  },
+  {
+    "id": "test-00270",
+    "recognition": "希望我妈妈接受我房。",
+    "groundtruth": "希望我妈妈接我去家。",
+    "origin": "我想要我妈妈来接我回家。",
+    "translation": ""
+  },
+  {
+    "id": "test-00271",
+    "recognition": "蔬菜干有。",
+    "groundtruth": "早上我饼干焙有。",
+    "origin": "我早上烘烤了饼干。",
+    "translation": ""
+  },
+  {
+    "id": "test-00272",
+    "recognition": "东西我作业。",
+    "groundtruth": "平时早上我书看。",
+    "origin": "我早晨都会看一会书。",
+    "translation": ""
+  },
+  {
+    "id": "test-00273",
+    "recognition": "你受不了。",
+    "groundtruth": "昨天我买裤子。",
+    "origin": "我昨天才买的裤子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00274",
+    "recognition": "你有。",
+    "groundtruth": "昨天晚上我睡觉梦有。",
+    "origin": "我昨天晚上睡觉做梦了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00275",
+    "recognition": "你朋友我是。",
+    "groundtruth": "他好朋友我是。",
+    "origin": "我是他的好朋友。",
+    "translation": ""
+  },
+  {
+    "id": "test-00276",
+    "recognition": "池塘我完了。",
+    "groundtruth": "农村我以前去完了。",
+    "origin": "我曾经去过乡村。",
+    "translation": ""
+  },
+  {
+    "id": "test-00277",
+    "recognition": "它我最。",
+    "groundtruth": "汉堡我喜欢最。",
+    "origin": "我最喜欢吃汉堡。",
+    "translation": ""
+  },
+  {
+    "id": "test-00278",
+    "recognition": "书加完了。",
+    "groundtruth": "书我喜欢最看完了。",
+    "origin": "我最喜欢的书已经看完了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00279",
+    "recognition": "和我好。",
+    "groundtruth": "篮球我擅长。",
+    "origin": "我最擅长打篮球。",
+    "translation": ""
+  },
+  {
+    "id": "test-00280",
+    "recognition": "我事。",
+    "groundtruth": "我训练少最近。",
+    "origin": "我最近没有好好训练。",
+    "translation": ""
+  },
+  {
+    "id": "test-00281",
+    "recognition": "价格我有。",
+    "groundtruth": "作业书我五有。",
+    "origin": "我有五本作业本。",
+    "translation": ""
+  },
+  {
+    "id": "test-00282",
+    "recognition": "你期待。",
+    "groundtruth": "你来我期待。",
+    "origin": "我期待你的到来。",
+    "translation": ""
+  },
+  {
+    "id": "test-00283",
+    "recognition": "我时间感谢。",
+    "groundtruth": "我到时间正好。",
+    "origin": "我来的正是时。",
+    "translation": ""
+  },
+  {
+    "id": "test-00284",
+    "recognition": "困难要。",
+    "groundtruth": "牛奶茶我喜欢每天喝要。",
+    "origin": "我每天都要喝一杯奶茶。",
+    "translation": ""
+  },
+  {
+    "id": "test-00285",
+    "recognition": "我朋友笑。",
+    "groundtruth": "我朋友房子设计我喜欢比较。",
+    "origin": "我比较喜欢我朋友家房子的设计。",
+    "translation": ""
+  },
+  {
+    "id": "test-00286",
+    "recognition": "我没有。",
+    "groundtruth": "我香烟没有。",
+    "origin": "我没有抽烟。",
+    "translation": ""
+  },
+  {
+    "id": "test-00287",
+    "recognition": "睡觉想要。",
+    "groundtruth": "冰淇淋我想吃现在。",
+    "origin": "我现在想吃冰淇淋。",
+    "translation": ""
+  },
+  {
+    "id": "test-00288",
+    "recognition": "我带。",
+    "groundtruth": "我支付微信。",
+    "origin": "我用微信付款吧。",
+    "translation": ""
+  },
+  {
+    "id": "test-00289",
+    "recognition": "我妻子我是。",
+    "groundtruth": "我妻子老师是。",
+    "origin": "我的太太是一名老师。",
+    "translation": ""
+  },
+  {
+    "id": "test-00290",
+    "recognition": "我朋友完。",
+    "groundtruth": "我朋友在中国外。",
+    "origin": "我的好朋友这国外。",
+    "translation": ""
+  },
+  {
+    "id": "test-00291",
+    "recognition": "我妈妈车中国要。",
+    "groundtruth": "我妈妈比赛参加代表中国队伍。",
+    "origin": "我的妈妈代表中国队参加了比赛。",
+    "translation": ""
+  },
+  {
+    "id": "test-00292",
+    "recognition": "我妈妈喜欢。",
+    "groundtruth": "衣服宽我妈妈喜欢。",
+    "origin": "我的妈妈喜欢穿宽松的衣服。",
+    "translation": ""
+  },
+  {
+    "id": "test-00293",
+    "recognition": "这里我愿意。",
+    "groundtruth": "土豆汤我妈妈喜欢。",
+    "origin": "我的妈妈很喜欢吃土豆汤。",
+    "translation": ""
+  },
+  {
+    "id": "test-00294",
+    "recognition": "我妈妈好是。",
+    "groundtruth": "我妈妈球员棒很是。",
+    "origin": "我的妈妈是一个很棒的球员。",
+    "translation": ""
+  },
+  {
+    "id": "test-00295",
+    "recognition": "我家资源多。",
+    "groundtruth": "我房子里面狗照片多。",
+    "origin": "我的房间有许多狗狗的照片。",
+    "translation": ""
+  },
+  {
+    "id": "test-00296",
+    "recognition": "我时间儿子。",
+    "groundtruth": "我一般早上喝牛奶。",
+    "origin": "我的早餐一般只喝牛奶。",
+    "translation": ""
+  },
+  {
+    "id": "test-00297",
+    "recognition": "它我朋友不喜欢。",
+    "groundtruth": "牛仔裤紧我朋友不喜欢。",
+    "origin": "我的朋友很不喜欢穿紧身牛仔裤。",
+    "translation": ""
+  },
+  {
+    "id": "test-00298",
+    "recognition": "我不要。",
+    "groundtruth": "我不舒服。",
+    "origin": "我的身体有点不舒服。",
+    "translation": ""
+  },
+  {
+    "id": "test-00299",
+    "recognition": "我信完。",
+    "groundtruth": "我信用卡钱完了。",
+    "origin": "我的钱信用卡刷爆了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00300",
+    "recognition": "水果很。",
+    "groundtruth": "水果我喜欢很。",
+    "origin": "我真的很喜欢吃水果。",
+    "translation": ""
+  },
+  {
+    "id": "test-00301",
+    "recognition": "这裙子裤子我想书。",
+    "groundtruth": "这牛仔裤我喜欢很我想买。",
+    "origin": "我真的很喜欢这个牛仔裤，我想买它。",
+    "translation": ""
+  },
+  {
+    "id": "test-00302",
+    "recognition": "书去。",
+    "groundtruth": "海边我想去。",
+    "origin": "我真的很想去海边。",
+    "translation": ""
+  },
+  {
+    "id": "test-00303",
+    "recognition": "他我想应该。",
+    "groundtruth": "那男人我想象难。",
+    "origin": "我真难以想象那个男人。",
+    "translation": ""
+  },
+  {
+    "id": "test-00304",
+    "recognition": "汽车我去像。",
+    "groundtruth": "健身房我去常常。",
+    "origin": "我经常出入健身馆。",
+    "translation": ""
+  },
+  {
+    "id": "test-00305",
+    "recognition": "我身体好像。",
+    "groundtruth": "我汽车保养常常。",
+    "origin": "我经常给我的车保养。",
+    "translation": ""
+  },
+  {
+    "id": "test-00306",
+    "recognition": "我朋友不一样。",
+    "groundtruth": "我朋友小孩我给礼物。",
+    "origin": "我给朋友得小孩送了礼物。",
+    "translation": ""
+  },
+  {
+    "id": "test-00307",
+    "recognition": "这沙发我喜欢。",
+    "groundtruth": "这沙发套我买可以？我喜欢。",
+    "origin": "我能买下这个沙发套吗？我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00308",
+    "recognition": "我可以？",
+    "groundtruth": "我去外呼吸可以？",
+    "origin": "我能出去外面透透气吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00309",
+    "recognition": "我相信可以？",
+    "groundtruth": "我信用卡可以？",
+    "origin": "我能刷信用卡吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00310",
+    "recognition": "我时间可以？",
+    "groundtruth": "这笔记本我写字可以？",
+    "origin": "我能在这本笔记本上写字吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00311",
+    "recognition": "一般可以。",
+    "groundtruth": "剩余菜我打包带可以？",
+    "origin": "我能将剩菜打包带走吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00312",
+    "recognition": "他我可以。",
+    "groundtruth": "我申请经理可以？",
+    "origin": "我能申请经理吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00313",
+    "recognition": "我申请可以？",
+    "groundtruth": "这背心我试可以？",
+    "origin": "我能试穿这件宽松的背心吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00314",
+    "recognition": "吸烟我很。",
+    "groundtruth": "吸烟我喜欢很。",
+    "origin": "我很喜欢吸烟。",
+    "translation": ""
+  },
+  {
+    "id": "test-00315",
+    "recognition": "新要。",
+    "groundtruth": "新知识学习我要。",
+    "origin": "我要学习新的知识。",
+    "translation": ""
+  },
+  {
+    "id": "test-00316",
+    "recognition": "我商品一样。",
+    "groundtruth": "商品信息怎么找？",
+    "origin": "我要怎么查找商品信息？",
+    "translation": ""
+  },
+  {
+    "id": "test-00317",
+    "recognition": "我要？",
+    "groundtruth": "我心状态调整要。",
+    "origin": "我要调整一下自己的心态。",
+    "translation": ""
+  },
+  {
+    "id": "test-00318",
+    "recognition": "我感觉身体有。",
+    "groundtruth": "我感觉身体难受有少。",
+    "origin": "我觉得我身体有些不舒服。",
+    "translation": ""
+  },
+  {
+    "id": "test-00319",
+    "recognition": "我东西买很。",
+    "groundtruth": "我感觉东西网购方便很。",
+    "origin": "我觉得网上购物很方便。",
+    "translation": ""
+  },
+  {
+    "id": "test-00320",
+    "recognition": "我这衣服我不合适。",
+    "groundtruth": "感觉这衣服我不符合。",
+    "origin": "我觉得这件衣服和我不搭。",
+    "translation": ""
+  },
+  {
+    "id": "test-00321",
+    "recognition": "汽车问我不会。",
+    "groundtruth": "倒车我不会。",
+    "origin": "我还不会倒车。",
+    "translation": ""
+  },
+  {
+    "id": "test-00322",
+    "recognition": "咖啡我不行。",
+    "groundtruth": "咖啡我喝完了睡不行。",
+    "origin": "我喝了咖啡就睡不着。",
+    "translation": ""
+  },
+  {
+    "id": "test-00323",
+    "recognition": "我没用。",
+    "groundtruth": "我最近病。",
+    "origin": "我这几天生病了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00324",
+    "recognition": "道路我你用去可以？",
+    "groundtruth": "我路迷惑你带出可以？",
+    "origin": "我迷路了你可以带我走出去吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00325",
+    "recognition": "我一空。",
+    "groundtruth": "我玩具一送。",
+    "origin": "我送了他一个玩具。",
+    "translation": ""
+  },
+  {
+    "id": "test-00326",
+    "recognition": "我早上想做老师。",
+    "groundtruth": "等我成长想做老师。",
+    "origin": "我长大了想当老师。",
+    "translation": ""
+  },
+  {
+    "id": "test-00327",
+    "recognition": "我要计划哪。",
+    "groundtruth": "我需要计划一。",
+    "origin": "我需要一个计划。",
+    "translation": ""
+  },
+  {
+    "id": "test-00328",
+    "recognition": "我要。",
+    "groundtruth": "我写字作业帮助需要。",
+    "origin": "我写作业需要一些帮助。",
+    "translation": ""
+  },
+  {
+    "id": "test-00329",
+    "recognition": "水果喝我要。",
+    "groundtruth": "水果喝我要。",
+    "origin": "我需要一点果汁。",
+    "translation": ""
+  },
+  {
+    "id": "test-00330",
+    "recognition": "我干用什么？",
+    "groundtruth": "我姓名签字哪里？",
+    "origin": "我需要把名字签在哪里？",
+    "translation": ""
+  },
+  {
+    "id": "test-00331",
+    "recognition": "房子里失望。",
+    "groundtruth": "房子内吸烟禁止。",
+    "origin": "房间里禁止吸烟。",
+    "translation": ""
+  },
+  {
+    "id": "test-00332",
+    "recognition": "我喜欢工作快乐。",
+    "groundtruth": "找自己喜欢事业心贡献。",
+    "origin": "找到一个喜欢的事业，用心付出。",
+    "translation": ""
+  },
+  {
+    "id": "test-00333",
+    "recognition": "自己好见面。",
+    "groundtruth": "自己缺点接受改善方法寻找。",
+    "origin": "接受自己的不足，寻找改进的方法。",
+    "translation": ""
+  },
+  {
+    "id": "test-00334",
+    "recognition": "火车多。",
+    "groundtruth": "操场小孩多。",
+    "origin": "操场上有许许多多的小朋友。",
+    "translation": ""
+  },
+  {
+    "id": "test-00335",
+    "recognition": "你是完成。",
+    "groundtruth": "你左是结账台。",
+    "origin": "收银台在你的左边。",
+    "translation": ""
+  },
+  {
+    "id": "test-00336",
+    "recognition": "我接受考试。",
+    "groundtruth": "我明天参加演讲比赛。",
+    "origin": "明天我就要参加演讲比赛了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00337",
+    "recognition": "我朋友生日。",
+    "groundtruth": "我朋友明天生日。",
+    "origin": "明天是我朋友的生日。",
+    "translation": ""
+  },
+  {
+    "id": "test-00338",
+    "recognition": "天空。",
+    "groundtruth": "明天雨运动开会举行不能。",
+    "origin": "明天要下雨运动会不能举行了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00339",
+    "recognition": "你怎么？",
+    "groundtruth": "明天年我去国外学习。",
+    "origin": "明年我就出国学习了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00340",
+    "recognition": "船方法什么？",
+    "groundtruth": "船晕解决方法什么？",
+    "origin": "晕船怎么样才会好一点？",
+    "translation": ""
+  },
+  {
+    "id": "test-00341",
+    "recognition": "山我喜欢很。",
+    "groundtruth": "有一香皂我喜欢很。",
+    "origin": "有一款香皂，我真的很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00342",
+    "recognition": "我看多我不会。",
+    "groundtruth": "中国字看多我不会。",
+    "origin": "有好都汉字我都不会。",
+    "translation": ""
+  },
+  {
+    "id": "test-00343",
+    "recognition": "植物多我不知道。",
+    "groundtruth": "植物多我不懂。",
+    "origin": "有很多植物我都不认识。",
+    "translation": ""
+  },
+  {
+    "id": "test-00344",
+    "recognition": "如果资源对买多可以。",
+    "groundtruth": "如果富东西买买多可以。",
+    "origin": "如果有钱你可以买很多东西。",
+    "translation": ""
+  },
+  {
+    "id": "test-00345",
+    "recognition": "警察人重要。",
+    "groundtruth": "成年人不是吸烟禁止。",
+    "origin": "未成年人禁止抽烟。",
+    "translation": ""
+  },
+  {
+    "id": "test-00346",
+    "recognition": "咖啡小。",
+    "groundtruth": "树叶落下。",
+    "origin": "树叶从树上掉下来了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00347",
+    "recognition": "桌子有哪里？",
+    "groundtruth": "桌子下有笔一。",
+    "origin": "桌子下有一支笔。",
+    "translation": ""
+  },
+  {
+    "id": "test-00348",
+    "recognition": "每房子全部有。",
+    "groundtruth": "每家空调全部有。",
+    "origin": "每家都有空调。",
+    "translation": ""
+  },
+  {
+    "id": "test-00349",
+    "recognition": "每是食物比赛我喜欢是。",
+    "groundtruth": "甜咸食物比较我喜欢这咸。",
+    "origin": "比起甜食我更喜欢吃咸食。",
+    "translation": ""
+  },
+  {
+    "id": "test-00350",
+    "recognition": "解决平喜欢。",
+    "groundtruth": "沙尘暴影响大很。",
+    "origin": "沙尘暴的影响很大。",
+    "translation": ""
+  },
+  {
+    "id": "test-00351",
+    "recognition": "最依靠向见面。",
+    "groundtruth": "最可靠方法什么认真踏实。",
+    "origin": "没有比脚踏实地更可靠的方法了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00352",
+    "recognition": "桌子惊动。",
+    "groundtruth": "游泳属于运动。",
+    "origin": "游泳是一项运动。",
+    "translation": ""
+  },
+  {
+    "id": "test-00353",
+    "recognition": "土豆我最喜欢。",
+    "groundtruth": "土豆炸我最喜欢。",
+    "origin": "炸土豆是我很喜欢的菜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00354",
+    "recognition": "汽车我干净。",
+    "groundtruth": "做面条我最擅长。",
+    "origin": "煮面条是我最擅长的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00355",
+    "recognition": "目标激动。",
+    "groundtruth": "梯子爬小心。",
+    "origin": "爬梯子的时候小心点。",
+    "translation": ""
+  },
+  {
+    "id": "test-00356",
+    "recognition": "现在我们联系。",
+    "groundtruth": "现在时间我们共同拼搏。",
+    "origin": "现在是我们共同拼搏的时刻。",
+    "translation": ""
+  },
+  {
+    "id": "test-00357",
+    "recognition": "菜来这不好。",
+    "groundtruth": "蔬菜生吃这习惯坏。",
+    "origin": "生吃蔬菜不是一个好习惯。",
+    "translation": ""
+  },
+  {
+    "id": "test-00358",
+    "recognition": "苹果人可以。",
+    "groundtruth": "用更积极态度对待将来。",
+    "origin": "用更积极的态度面对未来。",
+    "translation": ""
+  },
+  {
+    "id": "test-00359",
+    "recognition": "行李坏。",
+    "groundtruth": "现在剩余这黑裤子一。",
+    "origin": "目前就只有这个黑色的裤子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00360",
+    "recognition": "课多少钱？",
+    "groundtruth": "看病钱多少？",
+    "origin": "看一下医生需要多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00361",
+    "recognition": "对人年对自己是。",
+    "groundtruth": "真英雄战斗胜利别人不是重要是战斗胜利自己。",
+    "origin": "真正的英雄不是战胜别人，而是战胜自己。",
+    "translation": ""
+  },
+  {
+    "id": "test-00362",
+    "recognition": "我睡觉。",
+    "groundtruth": "等我们一起吃饭。",
+    "origin": "等一下，我们一起吃午饭。",
+    "translation": ""
+  },
+  {
+    "id": "test-00363",
+    "recognition": "等来客气。",
+    "groundtruth": "等我回来请你们吃饭。",
+    "origin": "等我回来请你们吃饭。",
+    "translation": ""
+  },
+  {
+    "id": "test-00364",
+    "recognition": "我你1？",
+    "groundtruth": "给咖啡一。",
+    "origin": "给我来一杯咖啡。",
+    "translation": ""
+  },
+  {
+    "id": "test-00365",
+    "recognition": "想一可以？",
+    "groundtruth": "给塑料袋一可以？",
+    "origin": "能给我一个塑料袋吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00366",
+    "recognition": "计划。",
+    "groundtruth": "这个牌子东西贵但是质量好。",
+    "origin": "虽然这个品牌得东西贵，但质量很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00367",
+    "recognition": "每年全部喜欢。",
+    "groundtruth": "衬衣牛仔裤我都喜欢。",
+    "origin": "衬衣和牛仔裤我都喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00368",
+    "recognition": "现在人看买。",
+    "groundtruth": "让人生相遇相遇人看你温暖样子。",
+    "origin": "让生命中更多的人看到你温暖的一面。",
+    "translation": ""
+  },
+  {
+    "id": "test-00369",
+    "recognition": "你要？",
+    "groundtruth": "你姓名电话号码写字。",
+    "origin": "请你写上你的姓名和电话。",
+    "translation": ""
+  },
+  {
+    "id": "test-00370",
+    "recognition": "像完了？",
+    "groundtruth": "VIP卡放。",
+    "origin": "请你收好你的VIP。",
+    "translation": ""
+  },
+  {
+    "id": "test-00371",
+    "recognition": "衣服那完了。",
+    "groundtruth": "结账指桌子。",
+    "origin": "请到收银台结账。",
+    "translation": ""
+  },
+  {
+    "id": "test-00372",
+    "recognition": "给筹备。",
+    "groundtruth": "收据放。",
+    "origin": "请把你的收据收好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00373",
+    "recognition": "新冠哪？",
+    "groundtruth": "咨询桌子哪？",
+    "origin": "请问一下咨询台在哪？",
+    "translation": ""
+  },
+  {
+    "id": "test-00374",
+    "recognition": "书我喜欢谢谢。",
+    "groundtruth": "书我喜欢谢谢。",
+    "origin": "谢谢你的书我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00375",
+    "recognition": "帮助开心。",
+    "groundtruth": "帮助谢谢开心。",
+    "origin": "谢谢你的帮忙我很开心。",
+    "translation": ""
+  },
+  {
+    "id": "test-00376",
+    "recognition": "火车。",
+    "groundtruth": "礼物喜欢谢谢。",
+    "origin": "谢谢你的礼物我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00377",
+    "recognition": "吃多。",
+    "groundtruth": "青年整容越来越。",
+    "origin": "越来越多的青年热衷于整容。",
+    "translation": ""
+  },
+  {
+    "id": "test-00378",
+    "recognition": "真我去厉害。",
+    "groundtruth": "不舒服去医生病。",
+    "origin": "身体不适的话需要看医生。",
+    "translation": ""
+  },
+  {
+    "id": "test-00379",
+    "recognition": "你多少。",
+    "groundtruth": "这酒钱多少？",
+    "origin": "这一瓶酒多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00380",
+    "recognition": "这很。",
+    "groundtruth": "这贵。",
+    "origin": "这东西贵。",
+    "translation": ""
+  },
+  {
+    "id": "test-00381",
+    "recognition": "我东西需要。",
+    "groundtruth": "这东西重要。",
+    "origin": "这东西对我来说太重要了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00382",
+    "recognition": "这东西强。",
+    "groundtruth": "这东西打折？",
+    "origin": "这个东西今天打折吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00383",
+    "recognition": "这里到。",
+    "groundtruth": "这东西安全？",
+    "origin": "这个东西安全吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00384",
+    "recognition": "你书可以。",
+    "groundtruth": "这书柜杂志放进去可以？",
+    "origin": "这个书架能放杂志吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00385",
+    "recognition": "这我电影。",
+    "groundtruth": "这产品我生产。",
+    "origin": "这个产品是我们生产的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00386",
+    "recognition": "这人贵。",
+    "groundtruth": "这人情怎么还？",
+    "origin": "这个人情你要怎么还？",
+    "translation": ""
+  },
+  {
+    "id": "test-00387",
+    "recognition": "这不一样时间有？",
+    "groundtruth": "这优惠券剩时间多少？",
+    "origin": "这个优惠券还有多久实效期？",
+    "translation": ""
+  },
+  {
+    "id": "test-00388",
+    "recognition": "这里历史悠久。",
+    "groundtruth": "这里传统历史悠久。",
+    "origin": "这个传统是历史悠久的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00389",
+    "recognition": "这里对现在我玩。",
+    "groundtruth": "这里伴娘现在我妻子。",
+    "origin": "这个伴娘是我现在的老婆。",
+    "translation": ""
+  },
+  {
+    "id": "test-00390",
+    "recognition": "你帮助可以。",
+    "groundtruth": "你发票帮助打折可以。",
+    "origin": "这个发票可以帮你打折。",
+    "translation": ""
+  },
+  {
+    "id": "test-00391",
+    "recognition": "这里贵。",
+    "groundtruth": "这里牌子东西差点儿贵。",
+    "origin": "这个品牌的东西比较贵。",
+    "translation": ""
+  },
+  {
+    "id": "test-00392",
+    "recognition": "这里产品钱差不多。",
+    "groundtruth": "这里商品降价仍然。",
+    "origin": "这个商品已经在降价了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00393",
+    "recognition": "这里产品没有？",
+    "groundtruth": "这里商品卖核心什么没有。",
+    "origin": "这个商品没什么卖点。",
+    "translation": ""
+  },
+  {
+    "id": "test-00394",
+    "recognition": "这里现在多不。",
+    "groundtruth": "这里商品现在多不。",
+    "origin": "这个商品现在不多了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00395",
+    "recognition": "这里地方很。",
+    "groundtruth": "这里地方舒服凉我喜欢。",
+    "origin": "这个地方很凉快，我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00396",
+    "recognition": "这里现在？",
+    "groundtruth": "这里塑料袋什么卖？",
+    "origin": "这个塑胶袋怎么卖呢？",
+    "translation": ""
+  },
+  {
+    "id": "test-00397",
+    "recognition": "这里我喜欢。",
+    "groundtruth": "这里塑料袋我喜欢。",
+    "origin": "这个塑胶袋我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00398",
+    "recognition": "这里我很。",
+    "groundtruth": "这里女我喜欢。",
+    "origin": "这个女生我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00399",
+    "recognition": "这里菜有什么？",
+    "groundtruth": "这里季节蔬菜有什么？",
+    "origin": "这个季节产什么蔬菜？",
+    "translation": ""
+  },
+  {
+    "id": "test-00400",
+    "recognition": "这里有什么？",
+    "groundtruth": "这里季节水果有什么？",
+    "origin": "这个季节有什么水果？",
+    "translation": ""
+  },
+  {
+    "id": "test-00401",
+    "recognition": "这里是不是？",
+    "groundtruth": "这里小孩你是？",
+    "origin": "这个孩子是你的吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00402",
+    "recognition": "这里多少？",
+    "groundtruth": "这里山顶高多少。",
+    "origin": "这个山顶有多高。",
+    "translation": ""
+  },
+  {
+    "id": "test-00403",
+    "recognition": "这里工作满意很。",
+    "groundtruth": "这里工作你满意？",
+    "origin": "这个工作你还满意吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00404",
+    "recognition": "这里工作我感觉有？",
+    "groundtruth": "这里工作我感觉挑战有。",
+    "origin": "这个工作对我很有挑战性。",
+    "translation": ""
+  },
+  {
+    "id": "test-00405",
+    "recognition": "这里工作真。",
+    "groundtruth": "这里工作辛苦真。",
+    "origin": "这个工作真的很辛苦。",
+    "translation": ""
+  },
+  {
+    "id": "test-00406",
+    "recognition": "这里好。",
+    "groundtruth": "这里思想棒。",
+    "origin": "这个想法简直太棒了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00407",
+    "recognition": "这里效果不能。",
+    "groundtruth": "这里化妆东西效果不行。",
+    "origin": "这个护肤品效果不好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00408",
+    "recognition": "这里帮助怎么？",
+    "groundtruth": "这里化妆东西怎么？",
+    "origin": "这个护肤品效果怎么样？",
+    "translation": ""
+  },
+  {
+    "id": "test-00409",
+    "recognition": "这里帮助朋友我要。",
+    "groundtruth": "这里广播机器朋友我给。",
+    "origin": "这个播放机我送给朋友了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00410",
+    "recognition": "这里给有。",
+    "groundtruth": "这里贺卡我给你。",
+    "origin": "这个是我送你的贺卡。",
+    "translation": ""
+  },
+  {
+    "id": "test-00411",
+    "recognition": "这里多。",
+    "groundtruth": "这里一个月支出多。",
+    "origin": "这个月的支出透支了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00412",
+    "recognition": "这里电少。",
+    "groundtruth": "这里一个月水电费少。",
+    "origin": "这个月的水电费很少。",
+    "translation": ""
+  },
+  {
+    "id": "test-00413",
+    "recognition": "这里笑。",
+    "groundtruth": "这里冰淇淋我喜欢。",
+    "origin": "这个款冰淇淋我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00414",
+    "recognition": "这里重。",
+    "groundtruth": "这里牛仔裤颜色现在年火。",
+    "origin": "这个款颜色的牛仔裤是今年得爆品。",
+    "translation": ""
+  },
+  {
+    "id": "test-00415",
+    "recognition": "这里我有。",
+    "groundtruth": "这里水果我喜欢。",
+    "origin": "这个水果我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00416",
+    "recognition": "这里我不喜欢。",
+    "groundtruth": "这里汉堡包我不喜欢。",
+    "origin": "这个汉堡我很不喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00417",
+    "recognition": "这里不好。",
+    "groundtruth": "这里塑料袋牌子质量不行。",
+    "origin": "这个牌子的塑胶袋质量很差。",
+    "translation": ""
+  },
+  {
+    "id": "test-00418",
+    "recognition": "这里玩我买。",
+    "groundtruth": "这里玩具我男孩合适。",
+    "origin": "这个玩具很适合我儿子。",
+    "translation": ""
+  },
+  {
+    "id": "test-00419",
+    "recognition": "这里会不喜欢。",
+    "groundtruth": "这里玩具我男孩不喜欢。",
+    "origin": "这个玩具我儿子很不喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00420",
+    "recognition": "这里电视继续。",
+    "groundtruth": "这里电视机结束最后我不喜欢。",
+    "origin": "这个电视剧最后的结局我很不喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00421",
+    "recognition": "这里好这。",
+    "groundtruth": "这里老师讨厌。",
+    "origin": "这个老师很讨厌。",
+    "translation": ""
+  },
+  {
+    "id": "test-00422",
+    "recognition": "这里有什么？",
+    "groundtruth": "这里职位要求有什么？",
+    "origin": "这个职位有什么要求吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00423",
+    "recognition": "这里禁止。",
+    "groundtruth": "这里葡萄新鲜。",
+    "origin": "这个葡萄真新鲜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00424",
+    "recognition": "这里是。",
+    "groundtruth": "这里提用包是。",
+    "origin": "这个袋子是用来打包的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00425",
+    "recognition": "这里门种植可以。",
+    "groundtruth": "这里门安装完成下午可以？",
+    "origin": "这个门下午能安装好吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00426",
+    "recognition": "这里问题帮助完了。",
+    "groundtruth": "这里问题帮助解决完了。",
+    "origin": "这个问题我帮你解决好了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00427",
+    "recognition": "现在人多。",
+    "groundtruth": "今年这里项目吸引人多。",
+    "origin": "这个项目是今年的热门。",
+    "translation": ""
+  },
+  {
+    "id": "test-00428",
+    "recognition": "这里味道颜色看吉祥好。",
+    "groundtruth": "这里颜色看吉祥。",
+    "origin": "这个颜色十分吉祥。",
+    "translation": ""
+  },
+  {
+    "id": "test-00429",
+    "recognition": "现在这里颜色这。",
+    "groundtruth": "今年这里颜色流行。",
+    "origin": "这个颜色是今年比较流行的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00430",
+    "recognition": "这里钱多少？",
+    "groundtruth": "这里电风扇钱多少？",
+    "origin": "这个风扇多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00431",
+    "recognition": "这里我们可以？",
+    "groundtruth": "这里一些杂志便宜卖我可以。",
+    "origin": "这些杂志你能便宜卖给我。",
+    "translation": ""
+  },
+  {
+    "id": "test-00432",
+    "recognition": "这里肉去。",
+    "groundtruth": "这里牛肉新鲜。",
+    "origin": "这些牛肉很新鲜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00433",
+    "recognition": "这里事情困难。",
+    "groundtruth": "这里事情知道了。",
+    "origin": "这件事我已经知道了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00434",
+    "recognition": "这里好不好？",
+    "groundtruth": "这里夹克好不好？",
+    "origin": "这件夹克怎么样？",
+    "translation": ""
+  },
+  {
+    "id": "test-00435",
+    "recognition": "这里算了。",
+    "groundtruth": "这里裤子宽卖完了。",
+    "origin": "这件宽松的裤子卖光了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00436",
+    "recognition": "这里衣服穿可以？",
+    "groundtruth": "这里衣服穿试一试可以？",
+    "origin": "这件衣服我能试穿吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00437",
+    "recognition": "这里护肤品我洗好。",
+    "groundtruth": "这里衬衣质量好。",
+    "origin": "这件衬衫质量不错。",
+    "translation": ""
+  },
+  {
+    "id": "test-00438",
+    "recognition": "等一会儿有。",
+    "groundtruth": "等明天这里裙子有。",
+    "origin": "这件裙子的尺码还需要等到明天才有。",
+    "translation": ""
+  },
+  {
+    "id": "test-00439",
+    "recognition": "这里全部是不是？",
+    "groundtruth": "这里裙子纯棉是不是？",
+    "origin": "这件裤子是纯棉的吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00440",
+    "recognition": "这里钱颜色我喜欢。",
+    "groundtruth": "这里裤子钱多少？我喜欢。",
+    "origin": "这件西裤多少钱？我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00441",
+    "recognition": "这里不喜欢。",
+    "groundtruth": "这里黑背心不喜欢。",
+    "origin": "这件黑色的背心我很不喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00442",
+    "recognition": "这里我机器钱好可以？",
+    "groundtruth": "这里洗衣机钱退可以？",
+    "origin": "这台洗衣机能退款吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00443",
+    "recognition": "这里保护和小水城市完全。",
+    "groundtruth": "这里一周计划和妻子2蜜月度假。",
+    "origin": "这周我打算和我太太去度蜜月。",
+    "translation": ""
+  },
+  {
+    "id": "test-00444",
+    "recognition": "这里工作幽默。",
+    "groundtruth": "这里一周你们作业完成时间抓紧。",
+    "origin": "这周的作业你们要尽快完成。",
+    "translation": ""
+  },
+  {
+    "id": "test-00445",
+    "recognition": "这里车祸最喜欢。",
+    "groundtruth": "这里品牌很喜欢。",
+    "origin": "这品牌是我很喜欢的品牌。",
+    "translation": ""
+  },
+  {
+    "id": "test-00446",
+    "recognition": "这里玩看多。",
+    "groundtruth": "这里篮球比赛看完了舒服爽。",
+    "origin": "这场球赛看的很过瘾。",
+    "translation": ""
+  },
+  {
+    "id": "test-00447",
+    "recognition": "这里天气接受。",
+    "groundtruth": "这里天气温度降越来越冷。",
+    "origin": "这天气越来越凉了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00448",
+    "recognition": "这里不喜欢。",
+    "groundtruth": "这里楼房租不行。",
+    "origin": "这套公寓不对外出租。",
+    "translation": ""
+  },
+  {
+    "id": "test-00449",
+    "recognition": "这里房价格多少？",
+    "groundtruth": "这里房子押金多少？",
+    "origin": "这套公寓的房子需要多少押金？",
+    "translation": ""
+  },
+  {
+    "id": "test-00450",
+    "recognition": "这里听开会我钱多少？",
+    "groundtruth": "这里晚会衣服钱多少？",
+    "origin": "这套晚会礼服多少钱呢？",
+    "translation": ""
+  },
+  {
+    "id": "test-00451",
+    "recognition": "这里我最喜欢。",
+    "groundtruth": "这里中国餐厅很喜欢。",
+    "origin": "这家中式餐厅的味道我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00452",
+    "recognition": "这里房这里最好。",
+    "groundtruth": "这里家外贸易公司很喜欢。",
+    "origin": "这家外贸公司我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00453",
+    "recognition": "这里房最好。",
+    "groundtruth": "这里家小吃很好。",
+    "origin": "这家店得小吃很好吃。",
+    "translation": ""
+  },
+  {
+    "id": "test-00454",
+    "recognition": "这里次关系贵。",
+    "groundtruth": "这里家咖啡喝坏贵。",
+    "origin": "这家店的咖啡不好喝还贵。",
+    "translation": ""
+  },
+  {
+    "id": "test-00455",
+    "recognition": "这里房不好。",
+    "groundtruth": "这里家咖啡喝差劲。",
+    "origin": "这家店的咖啡很不好喝。",
+    "translation": ""
+  },
+  {
+    "id": "test-00456",
+    "recognition": "这里房电影票价格最贵。",
+    "groundtruth": "这里家电影票价格很便宜。",
+    "origin": "这家电影院的电影票价格很便宜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00457",
+    "recognition": "这里要。",
+    "groundtruth": "这里电影院设计很好。",
+    "origin": "这家电影院的设计很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00458",
+    "recognition": "这里房最换。",
+    "groundtruth": "这里房子装修很特别。",
+    "origin": "这家的房屋的装修很特别。",
+    "translation": ""
+  },
+  {
+    "id": "test-00459",
+    "recognition": "这里意见钱贵。",
+    "groundtruth": "这里餐厅品尝坏价格贵。",
+    "origin": "这家餐厅味道不好价格还贵。",
+    "translation": ""
+  },
+  {
+    "id": "test-00460",
+    "recognition": "这里收拾。",
+    "groundtruth": "这里发票你保留好。",
+    "origin": "这张发票请你收好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00461",
+    "recognition": "这里语言好多。",
+    "groundtruth": "这里学校英国语言老师多。",
+    "origin": "这所学校有很多英语老师。",
+    "translation": ""
+  },
+  {
+    "id": "test-00462",
+    "recognition": "这里次给可以？",
+    "groundtruth": "这里笔送可以？",
+    "origin": "这支笔能送给我吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00463",
+    "recognition": "这里钱好。",
+    "groundtruth": "这里小费送装好。",
+    "origin": "这是你的小费请你拿好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00464",
+    "recognition": "这里好。",
+    "groundtruth": "这里收据你保管好。",
+    "origin": "这是收据请你保管好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00465",
+    "recognition": "这里可以？",
+    "groundtruth": "这里书借可以？",
+    "origin": "这本书可以借我吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00466",
+    "recognition": "这里次好。",
+    "groundtruth": "这里书内容喜欢。",
+    "origin": "这本书的内容我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00467",
+    "recognition": "这里可以？",
+    "groundtruth": "这里书写字可以？",
+    "origin": "这本书能写字吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00468",
+    "recognition": "这里护肤品机器做什么？",
+    "groundtruth": "这里加工机器作用什么？",
+    "origin": "这款加工机是用来做什么的？",
+    "translation": ""
+  },
+  {
+    "id": "test-00469",
+    "recognition": "这里车祸想好。",
+    "groundtruth": "这里头发设计很好。",
+    "origin": "这款发型的设计很到位。",
+    "translation": ""
+  },
+  {
+    "id": "test-00470",
+    "recognition": "这里好。",
+    "groundtruth": "这里图案设计很好。",
+    "origin": "这款图案设计的很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00471",
+    "recognition": "这里计划全部完了。",
+    "groundtruth": "这里沙发设计材料都很好。",
+    "origin": "这款沙发得设计和材料都很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00472",
+    "recognition": "这今天大。",
+    "groundtruth": "这玩具今天卖完了。",
+    "origin": "这款玩具今天卖完了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00473",
+    "recognition": "这钱便宜。",
+    "groundtruth": "这电视好钱便宜。",
+    "origin": "这款电视很好也不贵。",
+    "translation": ""
+  },
+  {
+    "id": "test-00474",
+    "recognition": "这事但是东西。",
+    "groundtruth": "这电视便宜少少但是质量一般。",
+    "origin": "这款电视比较便宜但质量不是很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00475",
+    "recognition": "这好。",
+    "groundtruth": "这笔记本设计称赞。",
+    "origin": "这款笔记本得设计很棒。",
+    "translation": ""
+  },
+  {
+    "id": "test-00476",
+    "recognition": "这我个体户。",
+    "groundtruth": "这裙子我妹妹合适。",
+    "origin": "这款裙子很适合我妹妹。",
+    "translation": ""
+  },
+  {
+    "id": "test-00477",
+    "recognition": "这裤子颜色忘记。",
+    "groundtruth": "这裤子颜色丢会。",
+    "origin": "这款裤子会褪色。",
+    "translation": ""
+  },
+  {
+    "id": "test-00478",
+    "recognition": "这熟悉。",
+    "groundtruth": "这样品设计称赞。",
+    "origin": "这款设计的样品很给力。",
+    "translation": ""
+  },
+  {
+    "id": "test-00479",
+    "recognition": "气氛舒服。",
+    "groundtruth": "这香水闻舒服。",
+    "origin": "这款香水的味道很好闻。",
+    "translation": ""
+  },
+  {
+    "id": "test-00480",
+    "recognition": "这问题弟弟钱山。",
+    "groundtruth": "这鸡尾酒不好喝钱贵。",
+    "origin": "这款鸡尾酒又贵又不好喝。",
+    "translation": ""
+  },
+  {
+    "id": "test-00481",
+    "recognition": "这我喜欢。",
+    "groundtruth": "这鸡尾酒我喜欢喜欢。",
+    "origin": "这款鸡尾酒我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00482",
+    "recognition": "这称赞。",
+    "groundtruth": "这称赞。",
+    "origin": "这真的太好了。",
+    "translation": ""
+  },
+  {
+    "id": "test-00483",
+    "recognition": "广场知道。",
+    "groundtruth": "场合衣服什么合适你应该知道。",
+    "origin": "这种场合你该穿什么你应该知道的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00484",
+    "recognition": "广场人跑题。",
+    "groundtruth": "这环境人居住不符合。",
+    "origin": "这种环境不适合人居住。",
+    "translation": ""
+  },
+  {
+    "id": "test-00485",
+    "recognition": "菜这。",
+    "groundtruth": "菜这谁做？",
+    "origin": "这道菜是谁做的？",
+    "translation": ""
+  },
+  {
+    "id": "test-00486",
+    "recognition": "这什么？",
+    "groundtruth": "这好吃好吃菜什么？",
+    "origin": "这里最受欢迎的是哪个菜？",
+    "translation": ""
+  },
+  {
+    "id": "test-00487",
+    "recognition": "这东西质量好。",
+    "groundtruth": "这东西质量好好。",
+    "origin": "这里的东西质量很好。",
+    "translation": ""
+  },
+  {
+    "id": "test-00488",
+    "recognition": "这风景漂亮。",
+    "groundtruth": "这风景漂亮漂亮。",
+    "origin": "这里的景色真漂亮。",
+    "translation": ""
+  },
+  {
+    "id": "test-00489",
+    "recognition": "大家问题。",
+    "groundtruth": "大家衣服打折九。",
+    "origin": "这里的衣服全部打九折。",
+    "translation": ""
+  },
+  {
+    "id": "test-00490",
+    "recognition": "这衣服钱重要。",
+    "groundtruth": "这衣服钱便宜。",
+    "origin": "这里的衣服很便宜。",
+    "translation": ""
+  },
+  {
+    "id": "test-00491",
+    "recognition": "这衣服钱价值。",
+    "groundtruth": "这衣服钱便宜值。",
+    "origin": "这里的衣服真是物美价廉。",
+    "translation": ""
+  },
+  {
+    "id": "test-00492",
+    "recognition": "钢笔钱花？",
+    "groundtruth": "钢笔卖钱20。",
+    "origin": "这钢笔才卖20元。",
+    "translation": ""
+  },
+  {
+    "id": "test-00493",
+    "recognition": "这房子多少钱？",
+    "groundtruth": "这房子装修钱多少？",
+    "origin": "这间房子装修花了多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00494",
+    "recognition": "运动你喜欢。",
+    "groundtruth": "运动这你喜欢？",
+    "origin": "这项运动你喜欢吗？",
+    "translation": ""
+  },
+  {
+    "id": "test-00495",
+    "recognition": "这我喜欢。",
+    "groundtruth": "这古典音乐我爸爸喜欢喜欢。",
+    "origin": "这首古典音乐我爸爸很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00496",
+    "recognition": "这我妈妈唱歌是。",
+    "groundtruth": "这我妈妈唱歌是。",
+    "origin": "这首歌是我妈妈唱的。",
+    "translation": ""
+  },
+  {
+    "id": "test-00497",
+    "recognition": "样子这我喜欢。",
+    "groundtruth": "音乐这我喜欢喜欢。",
+    "origin": "这首音乐我很喜欢。",
+    "translation": ""
+  },
+  {
+    "id": "test-00498",
+    "recognition": "让钱多少？",
+    "groundtruth": "邀请他钱多少？",
+    "origin": "雇佣他花了多少钱？",
+    "translation": ""
+  },
+  {
+    "id": "test-00499",
+    "recognition": "钱高人少。",
+    "groundtruth": "收入高人少少。",
+    "origin": "高收的人很少。",
+    "translation": ""
+  },
+  {
+    "id": "test-00500",
+    "recognition": "新人擦。",
+    "groundtruth": "鼓励别人给力量。",
+    "origin": "鼓励别人，给别人带来动力。",
+    "translation": ""
+  }
+]
