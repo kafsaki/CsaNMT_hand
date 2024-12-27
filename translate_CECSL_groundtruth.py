@@ -61,6 +61,7 @@ if __name__ == '__main__':
         # 将翻译结果填入 JSON 数据，仅更新 translation 字段为空的项
         for i, entry in enumerate(json_data[skipped_count + start_index: skipped_count + end_index]):
             if entry.get('translation', '') == '':  # 仅当 translation 为空时才更新
+                entry['translation_middle'] = middle_output[i]  # 创建新的 translation_middle 项
                 entry['translation'] = output[i]  # 假设翻译结果顺序与原数据顺序一致
 
         # 实时保存当前批次的翻译结果
