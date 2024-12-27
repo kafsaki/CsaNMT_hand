@@ -11,7 +11,7 @@ import time
 if tf.__version__ >= '2.0':
         tf = tf.compat.v1
         tf.disable_eager_execution()
-def zh2en():
+def zh2en(input):
     cfg_dir = "./model/damo/nlp_csanmt_translation_zh2en/configuration.json"
     cfg = Config.from_file(cfg_dir)
     
@@ -40,7 +40,7 @@ def zh2en():
     _detok = MosesDetokenizer(lang=_tgt_lang)
     _bpe = apply_bpe.BPE(open(_src_bpe_path))
     
-    input = ["你好吗?", "我很好，谢谢!你呢?", "你知道你在哪里吗?", "再见!"]
+    # input = ["你好吗?", "我很好，谢谢!你呢?", "你知道你在哪里吗?", "再见!"]
     
     input = [_punct_normalizer.normalize(item) for item in input]
     
@@ -98,8 +98,5 @@ def zh2en():
             for wid in wids
         ]).replace('@@ ', '').replace('@@', '')
         translation_out.append(_detok.detokenize(translation.split()))
-    print(translation_out)
-    translation_out = '<SENT_SPLIT>'.join(translation_out)
-    result = {OutputKeys.TRANSLATION: translation_out}
-    endtime = time.time()
-    print(result)
+    return translation_out
+
