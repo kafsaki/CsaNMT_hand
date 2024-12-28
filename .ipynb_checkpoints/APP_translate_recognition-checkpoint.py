@@ -14,7 +14,10 @@ def translate():
 
     if not recognition:
         return jsonify({"status": "error", "message": "No recognition data provided"}), 400
-
+        
+    # 去掉中间空格。很奇怪，我在传输到服务器之前就去除了，服务器接收后又给我加上了）
+    recognition[0] = recognition[0].replace(" ", "")
+    
     # 打印输入数据
     print(f"\033[32minput:{recognition}\033[0m");
 

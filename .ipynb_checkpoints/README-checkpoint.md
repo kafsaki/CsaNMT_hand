@@ -31,7 +31,7 @@ tensorflow===2.13.0
 
 modelscope===1.9.5 
 
-torch-2.1.0+cu121-cp38-cp38-linux_x86_64.whl
+torch-2.1.0+cu121-cp38-cp38-linux_x86_64.whl （需要在官网下载whl）
 
 flask
 
