@@ -5,8 +5,8 @@ input = ["你好吗?", "我很好，谢谢!你呢?", "你知道你在哪里吗?"
 middle_output = []
 output = []
 
-print(f"input:{input}");
+print(f"\033[32minput:{input}\033[0m");
 middle_output = zh2en(input)
-print(f"middle output:{middle_output}")
+print(f"\033[32mmiddle output:{middle_output}\033[0m")
 output = en2zh(middle_output)
-print(f"output:{output}")
+print(f"\033[32moutput:{output}\033[0m")
